@@ -1,0 +1,14 @@
+4815820360623886|12|2027|233 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:08:22.417268
+4815820360622888|12|2027|741 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:09:39.300777
+4815820360624330|12|2027|787 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:10:05.194850
+4815820360622805|12|2027|230 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:13:38.612386
+4815820360623050|12|2027|731 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:24:34.373104
+4815820360620213|12|2027|511 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:25:39.574848
+4815820360624355|12|2027|820 | Error details: There was a payment problem. response code: 352 Decline CVV2/CID Fail | 2023-11-28 15:26:12.794947
+5223030004427602|04|2027|682 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 00:24:30.153059
+5236800108182666|04|2027|147 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 00:52:16.077791
+5236800108102177|04|2027|070 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 02:19:10.237084
+5236800108178458|04|2027|607 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 02:44:54.078991
+5236800108104215|04|2027|726 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 02:58:13.736556
+5236800108104678|04|2027|616 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 03:00:01.010855
+5236800108165117|04|2027|150 | Error details: There was a payment problem. response code: 349 Do Not Honor | 2023-11-29 03:08:04.040721

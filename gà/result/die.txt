@@ -1,0 +1,188 @@
+379195557345783|04|2028|8014 | Error details: There was a payment problem. response code: 301 Invalid Account Number | 2023-11-27 23:18:01.587983
+379195557301240|04|2028|1246 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:19:14.675359
+379195557358448|04|2028|4014 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:19:40.384913
+379195557378578|04|2028|3040 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:20:25.261925
+379195557350320|04|2028|3454 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:20:57.907849
+379195557355600|04|2028|6326 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:21:31.013123
+379195557330165|04|2028|2136 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:21:58.747721
+379195557345783|04|2028|8014 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:23:58.670113
+379195557358448|04|2028|4014 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:24:43.778011
+379195557378578|04|2028|3040 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:25:41.027756
+379195557350320|04|2028|3454 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:26:23.053720
+379195557355600|04|2028|6326 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:26:44.818908
+379195557330165|04|2028|2136 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:27:27.413663
+379195557368801|04|2028|2145 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:27:54.264428
+379195557386373|04|2028|4642 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:29:00.365647
+379195557300036|04|2028|2275 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:29:45.724970
+379195557337863|04|2028|2257 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:30:16.326816
+379195557337202|04|2028|1355 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:30:44.869592
+379195557352177|04|2028|1872 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:36:34.366959
+379195557382000|04|2028|6201 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:37:00.170799
+379195557337426|04|2028|5820 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:42:17.299365
+379195557385276|04|2028|8206 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:42:49.786564
+379195557355584|04|2028|6867 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:43:16.875733
+379195557322584|04|2028|3787 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:43:57.313137
+379195557360113|04|2028|2287 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:44:22.894159
+379195557305647|04|2028|7102 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:44:51.410080
+379195557387470|04|2028|0346 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:45:17.321867
+379195557347656|04|2028|2473 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:45:41.844614
+379195557304087|04|2028|5670 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:46:08.211982
+379195557341634|04|2028|0107 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:46:36.542974
+379195557321255|04|2028|7868 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:47:07.294663
+379195557381010|04|2028|1623 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:47:48.658797
+379195557354488|04|2028|0775 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:48:15.159647
+379195557335222|04|2028|6858 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:51:41.561280
+379195557383107|04|2028|6317 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:52:03.982316
+379195557315547|04|2028|4447 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:52:32.104600
+379195557327062|04|2028|1750 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:53:09.665658
+379195557354157|04|2028|7682 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:53:37.057885
+379195557378685|04|2028|8723 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:54:14.111005
+379195557361764|04|2028|2850 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:54:47.362261
+379195557347433|04|2028|3841 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:55:08.978902
+379195557325876|04|2028|6238 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:55:49.094698
+379195557351864|04|2028|1012 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:56:26.116664
+379195557323244|04|2028|8406 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:56:58.488318
+379195557374288|04|2028|8723 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:57:34.005571
+379195557360444|04|2028|5232 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:57:57.340818
+379195557310258|04|2028|8587 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:58:32.561822
+379195557360444|04|2028|0053 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:59:04.668240
+379195557373421|04|2028|4717 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-27 23:59:46.391097
+379195557324010|04|2028|1525 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:00:23.216614
+379195557365831|04|2028|1001 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:00:58.712956
+379195557385631|04|2028|5765 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:06:36.563669
+379195557335115|04|2028|0155 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:07:02.657958
+379195557328276|04|2028|1701 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:07:41.183605
+379195557343473|04|2028|5748 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:13:30.337182
+379195557312817|04|2028|4583 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:14:11.753602
+379195557383321|04|2028|7466 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:14:37.967418
+379195557346112|04|2028|2516 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:14:58.651677
+379195557362424|04|2028|4284 | Error details: There was a payment problem. response code: 350 Generic Decline | 2023-11-28 00:15:33.001807
+4815820360621187|12|2027|660 | Error details: There was a payment problem. response code: 501 The account was closed | 2023-11-28 15:05:54.448425
+4815820360620023|12|2027|042 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:06:28.587641
+4815820360621302|12|2027|460 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:06:53.831865
+4815820360623407|12|2027|627 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:07:17.583339
+4815820360627176|12|2027|033 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:07:50.128659
+4815820360624405|12|2027|464 | Error details: There was a payment problem. response code: 501 The account was closed | 2023-11-28 15:11:01.728655
+4815820360626863|12|2027|845 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:11:29.360277
+4815820360620023|12|2027|250 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:12:00.745168
+4815820360623365|12|2027|671 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 15:12:40.335789
+4815820360621757|12|2027|310 | Error details: There was a payment problem. response code: 501 The account was closed | 2023-11-28 15:13:13.951468
+5223030004421027|04|2027|168 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:31:48.439653
+5223030004428451|04|2027|568 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:32:18.492528
+5223030004422264|04|2027|004 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:32:57.511167
+5223030004424310|04|2027|702 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:33:28.701391
+5223030004423221|04|2027|554 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:34:05.547756
+5223030004424401|04|2027|628 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:34:59.647655
+5223030004421043|04|2027|581 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:35:33.495373
+5223030004426257|04|2027|124 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:36:03.553177
+5223030004421381|04|2027|631 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:42:05.485305
+5223030004420821|04|2027|320 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:42:55.228053
+5223030004424468|04|2027|764 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:43:26.474258
+5223030004421621|04|2027|872 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 23:43:50.553423
+5223030004424104|04|2027|846 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:44:23.297812
+5223030004422611|04|2027|585 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:44:51.547035
+5223030004420862|04|2027|371 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:45:28.447019
+5223030004422314|04|2027|646 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:45:52.861625
+5223030004420615|04|2027|304 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:51:42.446597
+5223030004421381|04|2027|866 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:52:43.296821
+5223030004426737|04|2027|332 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:53:13.048577
+5223030004420102|04|2027|050 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:53:34.465074
+5223030004423544|04|2027|202 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:54:03.779708
+5223030004424211|04|2027|552 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 23:54:34.928569
+5223030004425887|04|2027|004 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 23:55:02.122893
+5223030004425085|04|2027|130 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:55:36.578135
+5223030004423346|04|2027|488 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-28 23:56:09.107451
+5223030004423353|04|2027|731 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-28 23:56:40.747303
+5223030004423015|04|2027|332 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:03:05.746313
+5223030004420011|04|2027|033 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:03:32.503193
+5223030004420706|04|2027|286 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:03:56.680535
+5223030004426067|04|2027|488 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:04:24.524133
+5223030004425762|04|2027|173 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:05:01.431487
+5223030004420441|04|2027|461 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:06:01.802366
+5223030004420482|04|2027|172 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:11:22.466272
+5223030004424187|04|2027|515 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:11:59.782969
+5223030004422280|04|2027|504 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:12:49.494144
+5223030004428634|04|2027|687 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:13:11.313753
+5223030004427511|04|2027|126 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-29 00:18:51.596832
+5223030004423213|04|2027|058 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:19:19.816678
+5223030004425234|04|2027|323 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:19:46.435756
+5223030004421548|04|2027|223 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:20:09.315016
+5223030004422272|04|2027|612 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:20:35.105947
+5223030004426075|04|2027|202 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:21:10.738409
+5223030004421431|04|2027|623 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:22:11.998541
+5223030004428048|04|2027|465 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:22:31.705047
+5223030004423684|04|2027|003 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-29 00:22:58.818758
+5223030004428626|04|2027|367 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:23:27.392716
+5223030004426372|04|2027|754 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:23:55.646155
+5223030004426612|04|2027|878 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:24:52.552723
+5223030004426851|04|2027|824 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:25:19.429271
+5223030004427735|04|2027|450 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-29 00:26:00.185771
+5223030004420102|04|2027|301 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:26:38.314400
+5223030004425440|04|2027|005 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:27:05.558824
+5223030004422835|04|2027|200 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:27:36.792793
+5223030004422611|04|2027|008 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:28:03.847582
+5223030004420227|04|2027|412 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:28:27.723618
+5223030004426448|04|2027|613 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:28:59.646432
+5223030004424120|04|2027|424 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-29 00:29:33.108613
+5194710001126886|11|2027|223 | Error details: There was a payment problem. response code: 149 Invalid transaction or card restriction; verify information and resubmit | 2023-11-29 00:36:58.053793
+5194710001128684|11|2027|472 | Error details: There was a payment problem. response code: 304 Lost/Stolen Card | 2023-11-29 00:38:10.689779
+5194710001125771|11|2027|067 | Error details: There was a payment problem. response code: 149 Invalid transaction or card restriction; verify information and resubmit | 2023-11-29 00:38:35.848952
+5194710001120186|11|2027|438 | Error details: There was a payment problem. response code: 652 Decline - Re-try Transaction | 2023-11-29 00:39:02.009758
+5194710001120467|11|2027|141 | Error details: There was a payment problem. response code: 652 Decline - Re-try Transaction | 2023-11-29 00:39:50.012683
+5194710001124261|11|2027|636 | Error details: There was a payment problem. response code: 652 Decline - Re-try Transaction | 2023-11-29 00:40:46.129776
+5194710001120681|11|2027|717 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:41:28.270865
+5236800108126705|04|2027|178 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:53:27.404901
+5236800108137025|04|2027|400 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:53:55.300831
+5236800108177435|04|2027|077 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:54:34.283447
+5236800108185727|04|2027|744 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:55:02.493589
+5236800108113455|04|2027|446 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:58:22.741796
+5236800108113307|04|2027|122 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:58:46.128635
+5236800108176502|04|2027|023 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 00:59:18.317665
+5236800108152743|04|2027|118 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:19:32.753017
+5236800108142132|04|2027|706 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:21:23.215468
+5236800108164524|04|2027|717 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:21:48.580089
+5236800108182468|04|2027|121 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:23:05.056999
+5236800108180231|04|2027|660 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:23:50.930216
+5236800108186436|04|2027|562 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:24:20.626915
+5236800108114370|04|2027|332 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:25:27.182101
+5236800108186022|04|2027|765 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:25:50.460225
+5236800108164821|04|2027|555 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:32:43.808384
+5236800108167477|04|2027|526 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:33:37.773600
+5236800108168020|04|2027|320 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:34:09.898929
+5236800108117167|04|2027|776 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:35:18.405900
+5236800108114073|04|2027|260 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:36:41.702158
+5236800108131481|04|2027|604 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:37:05.700832
+5236800108124478|04|2027|208 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:37:33.872151
+5236800108118876|04|2027|183 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:38:44.347894
+5236800108178441|04|2027|672 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:39:04.938371
+5236800108103274|04|2027|258 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:39:34.653319
+5236800108151067|04|2027|471 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:40:45.281009
+5236800108167048|04|2027|872 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:41:06.936864
+5236800108167824|04|2027|743 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:42:32.601714
+5236800108165521|04|2027|758 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:43:30.136922
+5236800108117860|04|2027|441 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:43:55.190178
+5236800108105725|04|2027|351 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:44:26.522781
+5236800108162577|04|2027|870 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:50:47.484620
+5236800108143825|04|2027|244 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:51:35.574164
+5236800108138551|04|2027|161 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:52:08.597781
+5236800108143767|04|2027|383 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:52:31.114277
+5236800108114255|04|2027|860 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:53:04.975413
+5236800108183045|04|2027|744 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:54:15.984713
+5236800108123835|04|2027|682 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:54:53.830986
+5236800108182344|04|2027|747 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:55:25.071944
+5236800108168350|04|2027|612 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:58:35.480754
+5236800108142165|04|2027|068 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:59:01.145464
+5236800108176601|04|2027|333 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 02:59:28.540836
+5236800108176056|04|2027|167 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:00:42.425402
+5236800108173103|04|2027|141 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:01:04.985192
+5236800108161710|04|2027|606 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:01:31.563754
+5236800108137363|04|2027|653 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:01:56.317754
+5236800108124106|04|2027|240 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:02:21.790982
+5236800108182245|04|2027|540 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:04:18.952091
+5236800108110071|04|2027|627 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:04:55.796458
+5236800108103407|04|2027|161 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:05:22.715727
+5236800108186881|04|2027|652 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:05:53.208718
+5236800108160886|04|2027|161 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:06:18.254938
+5236800108124783|04|2027|285 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:06:39.844892
+5236800108156884|04|2027|556 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:07:05.319286
+5236800108166081|04|2027|440 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 03:08:31.614519

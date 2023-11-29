@@ -1,0 +1,12 @@
+5236800108167121|04|2027|506 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:18:34.788151
+5236800108103423|04|2027|564 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:26:23.390065
+5236800108132570|04|2027|084 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:26:44.578965
+5236800108145242|04|2027|473 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:32:12.307951
+5236800108105576|04|2027|133 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:33:15.999080
+5236800108105261|04|2027|617 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:34:49.346732
+5236800108182138|04|2027|320 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:35:49.550086
+5236800108116003|04|2027|548 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:40:11.104171
+5236800108188432|04|2027|300 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 02:43:04.891011
+5236800108106764|04|2027|708 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 03:03:52.642945
+5236800108138742|04|2027|645 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 03:07:32.472041
+5236800108105576|04|2027|167 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 03:09:00.238838
