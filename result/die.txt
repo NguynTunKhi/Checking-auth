@@ -1,1 +1,0 @@
-5236800108165471|04|2027|425 | Error details: There was a payment problem. response code: 206 Issuer Generated Error | 2023-11-29 11:38:59.919385

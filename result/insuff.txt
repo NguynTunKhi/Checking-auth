@@ -1,1 +1,0 @@
-5236800108146653|04|2027|207 | Error details: There was a payment problem. response code: 110 Insufficient Funds | 2023-11-29 11:39:44.427520
